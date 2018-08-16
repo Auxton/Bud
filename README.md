@@ -15,8 +15,9 @@ https://storage.googleapis.com/budcraftstorage/uploads/products/lloyds-bank/Llyo
 
 Issues
 =====
-Api doesnt contain subtitles
+Api doesnt contain subtitles (e.g. Forbidden planet doesnt have an attribute for General)
 Icons have white background which means the thumbnail cannot have the light grey tint.
+APIs have SSL issues and icons sometimes doesnt load depending on network security.
 
 
 Assumptions
